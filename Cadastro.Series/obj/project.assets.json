@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\www\\Bootcamps\\C# Estudo\\Criando um APP simples de cadastro de séries em .NET\\cadastro.serie\\cadastro.series\\Cadastro.Series.csproj",
+      "projectUniqueName": "C:\\Users\\Michelle\\Desktop\\Mini Projetos - GIT\\Cadastro.Filmes-Series\\Cadastro.Series\\Cadastro.Series.csproj",
       "projectName": "Cadastro.Series",
-      "projectPath": "C:\\www\\Bootcamps\\C# Estudo\\Criando um APP simples de cadastro de séries em .NET\\cadastro.serie\\cadastro.series\\Cadastro.Series.csproj",
+      "projectPath": "C:\\Users\\Michelle\\Desktop\\Mini Projetos - GIT\\Cadastro.Filmes-Series\\Cadastro.Series\\Cadastro.Series.csproj",
       "packagesPath": "C:\\Users\\Michelle\\.nuget\\packages\\",
-      "outputPath": "C:\\www\\Bootcamps\\C# Estudo\\Criando um APP simples de cadastro de séries em .NET\\cadastro.serie\\cadastro.series\\obj\\",
+      "outputPath": "C:\\Users\\Michelle\\Desktop\\Mini Projetos - GIT\\Cadastro.Filmes-Series\\Cadastro.Series\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Michelle\\AppData\\Roaming\\NuGet\\NuGet.Config"

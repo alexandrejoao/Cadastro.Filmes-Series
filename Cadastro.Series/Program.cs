@@ -94,7 +94,7 @@ namespace Cadastro.Series
         // ========== Inserir Série - CASO 2 ==========
         private static void InserirSerie()
         {
-            Console.WriteLine("Inserir nova Série\n");
+            Console.WriteLine("Inserir Filmes | Série\n");
 
             foreach (int i in Enum.GetValues(typeof(Genero))) // Recupera uma matriz de valores de constantes em uma enumeração especificada.
             {
@@ -108,10 +108,10 @@ namespace Cadastro.Series
             Console.Write("Digite o Título: ");
             string entradaTitulo = Console.ReadLine();
 
-            Console.Write("Informe o Ano de Lançamento: ");
+            Console.Write("Ano de Lançamento: ");
             int entradaAno = int.Parse(Console.ReadLine());
 
-            Console.Write("Informe a Descrição: ");
+            Console.Write("Descrição: ");
             string entradaDescricao = Console.ReadLine();
             Console.Clear();
 
@@ -127,25 +127,27 @@ namespace Cadastro.Series
         // ========== Atualizar Série - CASO 3 ==========
         private static void AtualizarSerie()
         {
-            Console.Write("\nDigite o id da Série: ");
-            int indiceSerie = int.Parse(Console.ReadLine());
+            ListarSeries();
 
+            Console.Write("\nDigite o Id: ");
+            int indiceSerie = int.Parse(Console.ReadLine());
+            Console.Clear();
             //https:
             //https:
             foreach (int i in Enum.GetValues(typeof(Genero)))
             {
                 Console.WriteLine("\n{0}-{1}", i, Enum.GetName(typeof(Genero), i));
             }
-            Console.Write("\nDigite o genêro entre as opções acima: ");
+            Console.Write("\nDigite o Genêro: ");
             int entradaGenero = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite o Título da Série: ");
+            Console.Write("Digite o Título: ");
             string entradaTitulo = (Console.ReadLine());
 
-            Console.Write("Digite o Ano de Ínicio da Série: ");
+            Console.Write("Ano de Lançamento: ");
             int entradaAno = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite a Descrição da Série: ");
+            Console.Write("Descrição: ");
             string entradaDescricao = (Console.ReadLine());
             Console.Clear();
 
@@ -163,8 +165,11 @@ namespace Cadastro.Series
         // ========== Excluir Série - CASO 4 ==========
         private static void ExcluirSerie()
         {
-            //Console.Write("Digite o ID: ");
+            ListarSeries();
+
+            Console.Write("Digite o ID: ");
             int indiceSerie = int.Parse(Console.ReadLine());
+            Console.Clear();
 
             repositorio.excluir(indiceSerie);
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\www\\Bootcamps\\C# Estudo\\Criando um APP simples de cadastro de séries em .NET\\Cadastro.Serie\\Cadastro.Series\\Cadastro.Series.csproj": {}
+    "C:\\Users\\Michelle\\Desktop\\Mini Projetos - GIT\\Cadastro.Filmes-Series\\Cadastro.Series\\Cadastro.Series.csproj": {}
   },
   "projects": {
-    "C:\\www\\Bootcamps\\C# Estudo\\Criando um APP simples de cadastro de séries em .NET\\Cadastro.Serie\\Cadastro.Series\\Cadastro.Series.csproj": {
+    "C:\\Users\\Michelle\\Desktop\\Mini Projetos - GIT\\Cadastro.Filmes-Series\\Cadastro.Series\\Cadastro.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\www\\Bootcamps\\C# Estudo\\Criando um APP simples de cadastro de séries em .NET\\Cadastro.Serie\\Cadastro.Series\\Cadastro.Series.csproj",
+        "projectUniqueName": "C:\\Users\\Michelle\\Desktop\\Mini Projetos - GIT\\Cadastro.Filmes-Series\\Cadastro.Series\\Cadastro.Series.csproj",
         "projectName": "Cadastro.Series",
-        "projectPath": "C:\\www\\Bootcamps\\C# Estudo\\Criando um APP simples de cadastro de séries em .NET\\Cadastro.Serie\\Cadastro.Series\\Cadastro.Series.csproj",
+        "projectPath": "C:\\Users\\Michelle\\Desktop\\Mini Projetos - GIT\\Cadastro.Filmes-Series\\Cadastro.Series\\Cadastro.Series.csproj",
         "packagesPath": "C:\\Users\\Michelle\\.nuget\\packages\\",
-        "outputPath": "C:\\www\\Bootcamps\\C# Estudo\\Criando um APP simples de cadastro de séries em .NET\\Cadastro.Serie\\Cadastro.Series\\obj\\",
+        "outputPath": "C:\\Users\\Michelle\\Desktop\\Mini Projetos - GIT\\Cadastro.Filmes-Series\\Cadastro.Series\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Michelle\\AppData\\Roaming\\NuGet\\NuGet.Config"
