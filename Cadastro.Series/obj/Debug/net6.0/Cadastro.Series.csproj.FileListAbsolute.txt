@@ -1,0 +1,15 @@
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\bin\Debug\net6.0\Cadastro.Series.exe
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\bin\Debug\net6.0\Cadastro.Series.deps.json
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\bin\Debug\net6.0\Cadastro.Series.runtimeconfig.json
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\bin\Debug\net6.0\Cadastro.Series.dll
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\bin\Debug\net6.0\ref\Cadastro.Series.dll
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\bin\Debug\net6.0\Cadastro.Series.pdb
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\obj\Debug\net6.0\Cadastro.Series.csproj.AssemblyReference.cache
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\obj\Debug\net6.0\Cadastro.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\obj\Debug\net6.0\Cadastro.Series.AssemblyInfoInputs.cache
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\obj\Debug\net6.0\Cadastro.Series.AssemblyInfo.cs
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\obj\Debug\net6.0\Cadastro.Series.csproj.CoreCompileInputs.cache
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\obj\Debug\net6.0\Cadastro.Series.dll
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\obj\Debug\net6.0\ref\Cadastro.Series.dll
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\obj\Debug\net6.0\Cadastro.Series.pdb
+C:\www\Bootcamps\C# Estudo\Criando um APP simples de cadastro de séries em .NET\cadastro.serie\cadastro.series\obj\Debug\net6.0\Cadastro.Series.genruntimeconfig.cache
