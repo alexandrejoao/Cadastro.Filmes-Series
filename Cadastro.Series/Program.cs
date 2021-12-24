@@ -46,9 +46,8 @@ namespace Cadastro.Series
         // Seleção de MENU
         private static string ObterOpcaoUsuario()
         {
-            //Console.Clear();
             Console.WriteLine();
-            //Console.WriteLine("\nDIO Séries a seu Dispor!!!\n");
+            
             Console.WriteLine("\n      Cadastre Seus Filmes e Séries Favoritos \n");
 
             Console.WriteLine("                 1- Lista séries");
